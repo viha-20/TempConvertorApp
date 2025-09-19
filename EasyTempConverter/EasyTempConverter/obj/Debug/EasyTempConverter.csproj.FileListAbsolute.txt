@@ -1,0 +1,11 @@
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\bin\Debug\EasyTempConverter.exe.config
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\bin\Debug\EasyTempConverter.exe
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\bin\Debug\EasyTempConverter.pdb
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\obj\Debug\EasyTempConverter.csproj.AssemblyReference.cache
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\obj\Debug\EasyTempConverter.Form1.resources
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\obj\Debug\EasyTempConverter.Properties.Resources.resources
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\obj\Debug\EasyTempConverter.csproj.GenerateResource.cache
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\obj\Debug\EasyTempConverter.csproj.CoreCompileInputs.cache
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\obj\Debug\EasyTempConverter.exe
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\obj\Debug\EasyTempConverter.pdb
+C:\Users\v2001\Music\TempConvertorApp\EasyTempConverter\EasyTempConverter\obj\Debug\EasyTempConverter.exe.config
